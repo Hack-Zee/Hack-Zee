@@ -6,6 +6,6 @@ A static website meant for everyone.
 
 ## Connect 
 
-### List of Authors
+### List of Authors (Please add your name below by clicking on the edit button on right )
 
 -   [Sunny Dhoke](https://github.com/sunn-e)
